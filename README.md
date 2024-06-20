@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BeatStdio
-- 👀 I’m interested in anime
-- 🌱 I’m currently learning maths and compooter scientia
+- 👀 I’m interested in anime, maths, cs, and compooter graphics
+- 🌱 I’m currently learning some Maths, Compooter Science, and CGI Art
 - 💞️ I’m looking to collaborate on nothing in life
-- 📫 How to reach me - you don't
+- 📫 How to reach me - nah im autistic
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: this is a default template lmao
 
